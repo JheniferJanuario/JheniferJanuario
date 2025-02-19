@@ -11,7 +11,3 @@
 ```python
 print("Hello world")
 ```
-
-<div>
-<img src="imagens/python_logo.jpg" alt="300" width="200">
-<div>
