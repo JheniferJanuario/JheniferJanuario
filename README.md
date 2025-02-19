@@ -10,7 +10,10 @@
    <div>
   <img src="https://img-c.udemycdn.com/course/750x422/4884438_ce79_2.jpg" title="django" alt="django" width="120" height="75"/>&nbsp;    
   </div>
-  
+  <div>
+  <img src=" https://w1.pngwing.com/pngs/787/398/png-transparent-react-logo-javascript-python-clojure-programming-language-redux-computer-software-php-thumbnail.png" title="django" alt="django" width="120" height="75"/>&nbsp;    
+  </div>
+ 
 ```python
 print("Hello world")
 ```
