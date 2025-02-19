@@ -7,13 +7,11 @@
 
 - Se você tem algum projeto interessante ou dicas sobre Python, Git ou Ciência da Computação, fique à vontade para me chamar!
 
-   <div>
-  <img src="https://img-c.udemycdn.com/course/750x422/4884438_ce79_2.jpg" title="django" alt="django" width="120" height="75"/>&nbsp;    
-  </div>
-  <div>
-  <img src=" https://w1.pngwing.com/pngs/787/398/png-transparent-react-logo-javascript-python-clojure-programming-language-redux-computer-software-php-thumbnail.png" title="django" alt="django" width="120" height="75"/>&nbsp;    
-  </div>
  
 ```python
 print("Hello world")
 ```
+  <div>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFCHi18uXFtRb1_q7pQIVxYlwqvhVzCzZ4PQ&s" title="django" alt="django" width="65" height="65"/>&nbsp;    
+  </div>
+ 
