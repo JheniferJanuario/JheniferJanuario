@@ -7,7 +7,10 @@
 
 - Se você tem algum projeto interessante ou dicas sobre Python, Git ou Ciência da Computação, fique à vontade para me chamar!
 
- 
+   <div>
+  <img src="https://img-c.udemycdn.com/course/750x422/4884438_ce79_2.jpg" title="django" alt="django" width="120" height="75"/>&nbsp;    
+  </div>
+  
 ```python
 print("Hello world")
 ```
