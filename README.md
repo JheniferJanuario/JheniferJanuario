@@ -8,3 +8,6 @@
 - Se você tem algum projeto interessante ou dicas sobre Python, Git ou Ciência da Computação, fique à vontade para me chamar!
 
  
+```python
+print("Hello world")
+```
