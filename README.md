@@ -7,12 +7,17 @@
 
 - Se você tem algum projeto interessante ou dicas sobre Python, Git ou Ciência da Computação, fique à vontade para me chamar!
 
-   <div>
-  <img src="https://img-c.udemycdn.com/course/750x422/4884438_ce79_2.jpg" title="django" alt="django" width="120" height="75"/>&nbsp;    
-  </div>
-  
+ 
 ```python
 print("Hello world")
 ```
 
-kfivndfjrwij
+Ela não sabe codar */
+  <div>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFCHi18uXFtRb1_q7pQIVxYlwqvhVzCzZ4PQ&s" title="django" alt="django" width="65" height="65"/>&nbsp;    
+  </div>
+
+  <div>
+  <img src="https://media.invisioncic.com/v310067/monthly_2021_08/image.png.46aa28064fc54c9149c208b61dc2972a.png" title="django" alt="django" width="100" height="100"/>&nbsp;    
+  </div>
+
