@@ -12,12 +12,11 @@
 print("Hello world")
 ```
 
-Ela não sabe codar */
   <div>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFCHi18uXFtRb1_q7pQIVxYlwqvhVzCzZ4PQ&s" title="django" alt="django" width="65" height="65"/>&nbsp;    
   </div>
 
   <div>
-  <img src="https://media.invisioncic.com/v310067/monthly_2021_08/image.png.46aa28064fc54c9149c208b61dc2972a.png" title="django" alt="django" width="100" height="100"/>&nbsp;    
+  <img src="https://media.invisioncic.com/v310067/monthly_2021_08/image.png.46aa28064fc54c9149c208b61dc2972a.png" title="django" alt="django" width="150" height="190"/>&nbsp;    
   </div>
 
