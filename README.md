@@ -1,4 +1,4 @@
-.### Jhenifer Gonçalves Januário
+### Jhenifer Gonçalves Januário
 
 ---
 - Olá! Sou  uma estudante de Ciência da Computação no segundo ano, com 19 anos, e apaixonada por tecnologia. Atualmente, estou me aprofundando em Python e aprendendo a usar Git para melhorar o controle de versões e o trabalho em equipe nos meus projetos.
