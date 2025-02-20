@@ -1,4 +1,4 @@
-### Jhenifer Gonçalves Januário
+.### Jhenifer Gonçalves Januário
 
 ---
 - Olá! Sou  uma estudante de Ciência da Computação no segundo ano, com 19 anos, e apaixonada por tecnologia. Atualmente, estou me aprofundando em Python e aprendendo a usar Git para melhorar o controle de versões e o trabalho em equipe nos meus projetos.
@@ -12,11 +12,46 @@
 print("Hello world")
 ```
 
-  <div>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFCHi18uXFtRb1_q7pQIVxYlwqvhVzCzZ4PQ&s" title="django" alt="django" width="65" height="65"/>&nbsp;    
-  </div>
+## Habilidades
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--     <title>Skills</title> -->
+<!--    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            text-align: center;
+        }
+        th, td {
+            padding: 10px;
+        }
+    </style> -->
+</head>
+<body>
 
-  <div>
-  <img src="https://media.invisioncic.com/v310067/monthly_2021_08/image.png.46aa28064fc54c9149c208b61dc2972a.png" title="django" alt="django" width="150" height="190"/>&nbsp;    
-  </div>
+<h3>Linguagens de Programação</h3>
+<table>
+    <tr>
+        <td><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></td>
+    </tr>
+</table>
+
+<h3>Ferramentas</h3>
+<table>
+    <tr>
+        <td><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"></td>
+        <td><img src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Vscode"></td>
+    </tr>
+</table>
+
+
+
+
+## Conecte-se Comigo!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticiasouzasilvaa/)  
+
+  
 
